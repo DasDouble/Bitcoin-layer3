@@ -1,5 +1,5 @@
 # Bitcoin-layer3
-A peer-to-party fiat-Bitcoin protocol
+A decentralised peer-to-party fiat-Bitcoin protocol.
 
 #Bitcoin
 ## Preamble:
