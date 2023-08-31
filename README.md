@@ -4,9 +4,13 @@ A decentralised peer-to-party fiat-Bitcoin Nostr-like protocol
 #Bitcoin
 ## Preamble:
 As of today, most Bitcoin buy and sell orders are being routed via a small number of Bitcoin exchanges like Binance, Kraken, and so on. This doesn't help to decentralise capital.
+
 1st: While using such centralised trading platforms is common practice, it doesn't fully serve the idea of not having to trust large single entities and banks - and thus still blocks general de- banking, where money, power, as well as control over inflation, is taken away from banks/big entities.
+
 2nd: Still, there needs to be a fast, secure, usable, portable, convenient, reliable, cheap, cost- efficient, and compatible way to convert fiat currency into Bitcoin and back.
+
 3rd: Meanwhile, there are some decentralised peer-to-peer alternatives like Bisq. However, there seem to be some blocking security measures for people who want to buy bitcoin for the first time (e.g., the need for already having Bitcoin in an escrow - but this requires a solution with the features of the previous point (2)). HodlHodl is a good alternative for this, where the buyer doesn't need to have Bitcoin in the first place. Meanwhile, this is not heavily automated, not decentralised and in risk of being shut down by regulations. The user needs to avoid scammers by trusting reviews, which often results in higher fees for users.
+
 4th: Thus, there needs to be a Bitcoin onramp/entry point for new users, which combines the original idea of Satoshi Nakamoto (point 1 / decentralised capital) and, at the same time, combines the quality standards mentioned in point 2.
 Note: This is, in some ways, similar to HodlHodl / Bisq but tries to solve some of their structural / systematical problems.
 
