@@ -5,7 +5,7 @@ A decentralised peer-to-party fiat-Bitcoin Nostr-like protocol
 ## Preamble:
 As of today, most Bitcoin buy and sell orders are being routed via a small number of Bitcoin exchanges like Binance, Kraken, and so on. This doesn't help to decentralise capital.
 
-1st: While using such centralised trading platforms is common practice, it doesn't fully serve the idea of not having to trust large single entities and banks - and thus still blocks general de- banking, where money, power, as well as control over inflation, is taken away from banks/big entities.
+1st: While using such centralised trading platforms is common practice, it doesn't fully serve the idea of not having to trust large single entities and banks - and thus still blocks general de- banking, where money, power, as well as control over inflation, is taken away from banks/big entities. Also buying from such single big entities includes the risk of one single player going offline / out of business (see FTX / SBF, etc) and by that losing capital, parked there.
 
 2nd: Still, there needs to be a fast, secure, usable, portable, convenient, reliable, cheap, cost- efficient, and compatible way to convert fiat currency into Bitcoin and back.
 
