@@ -1,4 +1,4 @@
-# Bitcoin-layer3
+# Bitcoin-layer3 concept
 A decentralised peer-to-party fiat-Bitcoin Nostr-like protocol
 
 #Bitcoin
